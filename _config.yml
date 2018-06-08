@@ -6,8 +6,8 @@ title:               Zhizun Zhang's Blog
 tagline:             
 home:                http://zazhang.github.io
 url:                 http://zazhang.github.io/blog
-paginate:            1
-baseurl:             /blog
+paginate:            5
+baseurl:             /blog/
 
 # Assets
 #
