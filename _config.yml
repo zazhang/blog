@@ -2,11 +2,12 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Zhizun Zhang's Blog
+tagline:             
+home:                http://zazhang.github.io
+url:                 http://zazhang.github.io/blog
 paginate:            1
-baseurl:             ""
+baseurl:             /blog
 
 # Assets
 #
@@ -17,9 +18,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Albert Zhang
+  url:               https://zazhang.github.io
+  email:             godzaq159753@gmail.com
 
 # Custom vars
 version:             2.0.0
