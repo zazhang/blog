@@ -5,7 +5,7 @@ permalink:           pretty
 title:               Zhizun Zhang's Blog
 tagline:             
 url:                 "https://zazhang.github.io"
-paginate:            1
+paginate:            3
 baseurl:             "https://zazhang.github.io/blog/"
 
 # Assets
