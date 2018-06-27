@@ -69,3 +69,8 @@ Random forest is robust and one of the most favorite algorithms to do regression
 --------
 [^1]: Leo Breiman and Adele Cutler. Random Forests. https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 [^2]: smci. StackOverflow. https://stackoverflow.com/questions/23075506/how-to-improve-randomforest-performance
+
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
