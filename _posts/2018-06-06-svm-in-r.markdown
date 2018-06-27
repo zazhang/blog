@@ -9,7 +9,7 @@ In machine learning, classification is a major type of problems. Many methods ha
 
 SVM tries to separate data using hyperplane. That is to say, datsets that is not linearly separable may be separable in high-dimensional space. SVM identifies the hyperpalne that separates the dataset in the high-dimensional space[^1]. 
 
-![text ]( {{https://zazhang.github.io/blog/}}"/assets/images/svm-1.png" "SVM separation in high-dimensional space")
+![alt text]( ../assets/images/svm-1.png "SVM separation in high-dimensional space")
 
 Therefore, it is able to classify nonlinear problems. It generalizes a simple classifier named *maximal margin classifier*. For a nonlinear feature space, SVM creates nonlinear decision boundary to separate the nonlinear datasets, with the help of *kernel*.
 
