@@ -6,7 +6,7 @@ title: Home
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="https://zazhang.github.io/blog{{ post.url }}">
         {{ post.title }}
       </a>
       - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
@@ -14,6 +14,7 @@ title: Home
   {% endfor %}
 </ul>
 
+<!--
 {% for post in site.older_posts %}
   <div class="entry old_entry">
     <div class="entrytitle">
@@ -26,6 +27,7 @@ title: Home
 <div class="archive_link">
   <a href="/archive">View all previous posts in archive &raquo;</a>
 </div>
+-->
 
 <script type="text/javascript">
 //<![CDATA[
