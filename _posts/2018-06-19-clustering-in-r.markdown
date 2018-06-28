@@ -56,6 +56,8 @@ Clustering is a major unsupervised classification algorithm. Here, we present tw
 --------
 [^1]: Joao Neto. Spectral Clustering. http://www.di.fc.ul.pt/~jpn/r/spectralclustering/spectralclustering.html
 [^2]: K-means Clustering. Wikipedia. https://en.wikipedia.org/wiki/K-means_clustering
+[^3]: Spectral clustering详解. https://www.cnblogs.com/Leo_wl/p/3156049.html
+[^4]: Spectral clustering方法总结. https://blog.csdn.net/u010967291/article/details/53465645
 
 
 <script type="text/javascript" async

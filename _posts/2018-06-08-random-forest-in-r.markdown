@@ -69,6 +69,8 @@ Random forest is robust and one of the most favorite algorithms to do regression
 --------
 [^1]: Leo Breiman and Adele Cutler. Random Forests. https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 [^2]: smci. StackOverflow. https://stackoverflow.com/questions/23075506/how-to-improve-randomforest-performance
+[^3]: R语言之Random Forest随机森林. https://www.cnblogs.com/nxld/p/6374945.html
+[^4]: Anish Singh Walia. Random Forests in R. https://datascienceplus.com/random-forests-in-r/
 
 
 <script type="text/javascript" async

@@ -71,6 +71,8 @@ SVM is a powerful algorithm to classify both linear and nonlinear high-dimension
 [^1]: Support Vector Machines explained well. http://bytesizebio.net/2014/02/05/support-vector-machines-explained-well/
 [^2]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning-with applications in R. In G. Casella, S. Fienberg, & I. Olkin (Eds.), Springer Texts in Statistics (1 ed., pp. XIV, 426): Springer-Verlag New York.
 [^3]: Bishop, C. (2006). Pattern Recognition and Machine Learning. Springer. Stat Sci.
+[^4]:  A gentle introduction to support vector machines using R. Eight to Late. https://eight2late.wordpress.com/2017/02/07/a-gentle-introduction-to-support-vector-machines-using-r/
+[^5]: 支持向量机SVM在R中的实现. https://blog.csdn.net/nieson2012/article/details/51354284
 
 
 <script type="text/javascript" async
