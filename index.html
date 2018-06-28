@@ -6,7 +6,7 @@ title: Home
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
       </a>
       - <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
@@ -17,8 +17,8 @@ title: Home
 {% for post in site.older_posts %}
   <div class="entry old_entry">
     <div class="entrytitle">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a> <span class="author">{{ post.author }}</span></h2> 
-      <h3>{{ post.date | date_to_string }} | <a href="{{ post.url }}#disqus_thread" class="commentslink">View comments</a></h3>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="author">{{ post.author }}</span></h2> 
+      <h3>{{ post.date | date_to_string }} | <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread" class="commentslink">View comments</a></h3>
     </div>
   </div>
 {% endfor %}
