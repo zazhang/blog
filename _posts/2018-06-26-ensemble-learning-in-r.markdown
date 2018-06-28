@@ -128,6 +128,8 @@ In this case, we combine `ranger` and `glmnet` to previous ensemble, with the ho
 
 Ensemble learning creates better performance by averaging, weighting different machine learning models and adding them together. It tends to work best when different individual models perform differently. Tuning an ensemble model is not easy and would require intuitions about different learners. This guide is just a simple instruction and a place to start. You should always try it on your own data to find more.
 
+Find more in [^3].
+
 --------
 [^1]: Vik Paruchuri. An Intro to Ensemble Learning in R. R-bloggers. https://www.r-bloggers.com/an-intro-to-ensemble-learning-in-r/
 [^2]: Daniel Gremmell. Ensemble Learning in R with SuperLearner. DataCamp. https://www.datacamp.com/community/tutorials/ensemble-r-machine-learning

@@ -66,6 +66,8 @@ To improve the performance, `mtry` and `ntrees` are two important parameters to 
 
 Random forest is robust and one of the most favorite algorithms to do regression or classification. Using `randomForest` package, implementing and tuning random forest is simple in R.
 
+Find more in [^3] and [^4].
+
 --------
 [^1]: Leo Breiman and Adele Cutler. Random Forests. https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
 [^2]: smci. StackOverflow. https://stackoverflow.com/questions/23075506/how-to-improve-randomforest-performance

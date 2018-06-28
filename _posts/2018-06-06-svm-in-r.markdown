@@ -67,6 +67,8 @@ mean(data1$y != predict(svm.model)) # misclassification rate
 
 SVM is a powerful algorithm to classify both linear and nonlinear high-dimensional data. Its implementation in R is simple. This guide gives basic explanation about SVM in R.
 
+Find more in [^4] and [^5].
+
 --------
 [^1]: Support Vector Machines explained well. http://bytesizebio.net/2014/02/05/support-vector-machines-explained-well/
 [^2]: James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning-with applications in R. In G. Casella, S. Fienberg, & I. Olkin (Eds.), Springer Texts in Statistics (1 ed., pp. XIV, 426): Springer-Verlag New York.

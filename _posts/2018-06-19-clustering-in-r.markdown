@@ -53,6 +53,8 @@ plot(data1, col=sc.model, pch=4) # plot clusters
 
 Clustering is a major unsupervised classification algorithm. Here, we present two specific ones, namely, K-means and spectral clustering. K-means clusters data points by minimizing WCSS. On the other hand, spectral clustering reduces the clustering problem to a graph partition problem. This guide serves a simple introduction to clustering algorithms. 
 
+Find more in [^3] and [^4].
+
 --------
 [^1]: Joao Neto. Spectral Clustering. http://www.di.fc.ul.pt/~jpn/r/spectralclustering/spectralclustering.html
 [^2]: K-means Clustering. Wikipedia. https://en.wikipedia.org/wiki/K-means_clustering
