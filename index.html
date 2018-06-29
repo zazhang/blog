@@ -18,8 +18,8 @@ title: Home
 {% for post in site.older_posts %}
   <div class="entry old_entry">
     <div class="entrytitle">
-      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span class="author">{{ post.author }}</span></h2> 
-      <h3>{{ post.date | date_to_string }} | <a href="{{ site.baseurl }}{{ post.url }}#disqus_thread" class="commentslink">View comments</a></h3>
+      <h2><a href="https://zazhang.github.io/blog{{ post.url }}">{{ post.title }}</a> <span class="author">{{ post.author }}</span></h2> 
+      <h3>{{ post.date | date_to_string }} | <a href="https://zazhang.github.io/blog{{ post.url }}#disqus_thread" class="commentslink">View comments</a></h3>
     </div>
   </div>
 {% endfor %}
