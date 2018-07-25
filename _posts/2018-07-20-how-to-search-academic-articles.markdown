@@ -45,7 +45,8 @@ Fourth, using a database (e.g., Web of Science), we can go head search the relev
     + Physical science
     + Interdisciplinary
 
-![alt text]( ../assets/images/webofscience-1.png "Refined search")
+
+![Refined search](../assets/images/webofscience-1){:class="img-responsive"}
 
 ![alt text]( ../assets/images/webofscience-2.png "Search results (partial)")
 
