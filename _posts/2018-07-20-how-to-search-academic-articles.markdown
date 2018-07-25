@@ -24,7 +24,7 @@ Using a database with a set of key words and time span will result a long list o
 
 With a refined list, we can export the list to citation management tool such as EndNote. Such a tool is useful for tracking our reading progress. Following the list, we can download the papers either from the database, if a paid account is given, or from sci-hub, which is a controversial publication sharing tool.
 
-Simulak [^1] has authored an article about how to conduct literature review. Even though it's for qualitative research. It has great value for literature review in general.
+Simulak[^1] has authored an article about how to conduct literature review. Even though it's for qualitative research. It has great value for literature review in general.
 
 ## Example
 
@@ -45,9 +45,9 @@ Fourth, using a database (e.g., Web of Science), we can go head search the relev
     + Physical science
     + Interdisciplinary
 
-![webofscience]( ../assets/images/webofscience-1.png "Refined search")
+![alt text]( ../assets/images/webofscience-1.png "Refined search")
 
-![webofscience result]( ../assets/images/webofscience-2.png "Search result (partial)")
+![alt text]( ../assets/images/webofscience-2.png "Search results (partial)")
 
 Finally, we can download these paper and start reading.
 
