@@ -37,16 +37,15 @@ Second, based on the research question, we need to come up with a set of key wor
 Third, we determine the time span for this search is 1990-present.
 
 Fourth, using a database (e.g., Web of Science), we can go head search the relevant literature. We limit the relevant fields as following:
-    + Finance
-    + Economics
-    + Business
-    + Computer Science and Technology
-    + Engineering multidisciplinary
-    + Physical science
-    + Interdisciplinary
+    * Finance
+    * Economics
+    * Business
+    * Computer Science and Technology
+    * Engineering multidisciplinary
+    * Physical science
+    * Interdisciplinary
 
-
-![Refined search](../assets/images/webofscience-1){:class="img-responsive"}
+![alt text]( ../assets/images/webofscience-1.png "Refined search")
 
 ![alt text]( ../assets/images/webofscience-2.png "Search results (partial)")
 

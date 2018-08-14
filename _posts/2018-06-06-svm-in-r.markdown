@@ -11,7 +11,6 @@ SVM tries to separate data using hyperplane. That is to say, datsets that is not
 
 ![alt text]( ../assets/images/svm-1.png "SVM separation in high-dimensional space")
 
-
 Therefore, it is able to classify nonlinear problems. It generalizes a simple classifier named *maximal margin classifier*. For a nonlinear feature space, SVM creates nonlinear decision boundary to separate the nonlinear datasets, with the help of *kernel*.
 
 ## What is kernel
