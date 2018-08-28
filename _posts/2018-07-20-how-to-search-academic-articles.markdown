@@ -45,9 +45,9 @@ Fourth, using a database (e.g., Web of Science), we can go head search the relev
     * Physical science
     * Interdisciplinary
 
-![alt text]( zazhang.github.io/blog/assets/images/webofscience-1.png "Refined search")
+![alt text]( {{site.baseurl}}/assets/images/webofscience-1.png "Refined search")
 
-![alt text]( zazhang.github.io/blog/assets/images/webofscience-2.png "Search results (partial)")
+![alt text]( {{site.baseurl}}/assets/images/webofscience-2.png "Search results (partial)")
 
 Finally, we can download these paper and start reading.
 
