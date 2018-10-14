@@ -38,6 +38,8 @@ pro = ts.pro_api('your token')
 df = get_price(ts_code='600000.SH', start_date='20181009', end_date='20181010')
 ```
 
+More usage can be found at [here](https://tushare.pro/document/2).
+
 ## Pandas-datareader
 
 [*Pandas-datareader*](https://pandas-datareader.readthedocs.io/en/latest/) is a data API for global markets. It can be installed via `pip install pandas-datareader`. Note, in order to use *pandas-datareader*, we need to have *Pandas* installed.
@@ -65,7 +67,7 @@ If an API is provided (an url like this: `https://www.quandl.com/api/v3/datasets
 
 ## Wind
 
-*Wind*数据提取有流量限制，达到限制后7*24小时后恢复。期间可以使用其他未达到流量的方法（e.g. 数据浏览器达到限制，可使用API或者 *Excel* 插件）或者其他人账号。
+*Wind*数据提取有流量限制，达到限制后7*24小时后恢复。期间可以使用其他未达到流量的方法（e.g. 数据浏览器达到限制，可使用API或者  *Excel* 插件）或者其他人账号。
 
 *Wind*读取数据（e.g.读取多只股票多日交易情况）可能失败，因为单个query要求的数据量太大，无法通过网络传输，可以拆分成多个query来实现，例如一只股票一只股票的读取。
 
@@ -78,7 +80,7 @@ If an API is provided (an url like this: `https://www.quandl.com/api/v3/datasets
 
 #### 行情序列
 
-行情序列支持单一股票的逐日行情和分钟行情。其中分钟行情仅支持近3年，如需更多请联系Wind管理员购买。
+行情序列支持单一股票的逐日行情和分钟行情。其中分钟行情仅支持最近3年，如需更多请联系Wind管理员购买。
 
 ### Wind Excel插件
 
